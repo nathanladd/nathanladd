@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Nate. I'm a diesel equipment mechanic in Colorado that's had a hobby interest in programming for many years. I'm always looking for problems to solve at work with software.
+I think I'll try som Python. 
 <!--
 **nathanladd/nathanladd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
